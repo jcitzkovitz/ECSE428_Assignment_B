@@ -19,3 +19,4 @@ Feature: Send an email on Outlook with an image attachment to a Recipient
 		|		C:\Users\jcitz\Desktop\TestImages\test2.jpg		| jcitzko@hotmail.com | Test_428_B |
 		|		C:\Users\jcitz\Desktop\TestImages\test3.jpg		| jcitzkovitz@gmail.com | Test_428_B |
 		|		C:\Users\jcitz\Desktop\TestImages\test4.jpg		| jordani@stradigi.ai | Test_428_B |
+		|		C:\Users\jcitz\Desktop\TestImages\test5.jpg		| assbtest428@gmail.com | Test_428_B |
